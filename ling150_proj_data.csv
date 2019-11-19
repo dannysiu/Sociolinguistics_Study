@@ -1,0 +1,225 @@
+﻿Response variants,Addresser,Sex_addresser,Race_addresser,Relationship,Addressee,Sex_addressee,Race_addressee,Situational Context,Location,Response type
+Kay,Jonathan,M,Chinese,good friend,Vincent,M,Chinese,,in apartment,Affirmation
+Yeah,Vincent,M,Chinese,good friend,Jonathan,M,Chinese,,in apartment,Affirmation
+Yeah,Jonathan,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+Yeah,Ethan,M,Chinese,good friend,Jonathan,M,Chinese,,in apartment,Affirmation
+Yeah,Ethan,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+Yeah,Ling150 student,F,Caucasian,fellow student,Me,M,Chinese,,in apartment,Affirmation
+Yeah,Charis,F,Chinese,friend,Me,M,Chinese,,in apartment,Affirmation
+Yeah,Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in apartment,Affirmation
+Yeah,Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in apartment,Affirmation
+Yeah,Sarah,F,Chinese,teaching,Me,M,Chinese,,in apartment,Affirmation
+Yeah,Student,F,n/a,teaching,male TA,M,n/a,,in class,Affirmation
+Yeah,Maryo,M,Egyptian,good friend,Vincent,M,Chinese,,in apartment,Affirmation
+Yeah,Joseph Park,M,Korean,good friend,Me,M,Chinese,,in class,Affirmation
+Yeah,Charis,F,Chinese,fellow student,Me,M,Chinese,,in class,Affirmation
+Yeah,Joyce,F,Chinese,good friend,Tim Cruz,M,Filipino,,in class,Affirmation
+"Yeah, yeah, yeah",Charis,F,Chinese,good friend,Tim Cruz,M,Filipino,,in class,Affirmation
+"Yeah, yeah, yeah",Joyce,F,Chinese,good friend,Charis,F,Chinese,,in class,Affirmation
+"Yeah, yeah, yeah",Tim Cruz,M,Filipino,good friend,Charis,F,Chinese,,in class,Affirmation
+"Yeah, yeah, yeah",Joyce,F,Chinese,good friend,Charis,F,Chinese,,in class,Affirmation
+Sure,Vincent,M,Chinese,good friend,Jonathan,M,Chinese,repeat after Jonathan,in apartment,Affirmation
+Sure,Jonathan,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+Sure,Jonathan,M,Chinese,good friend,Vincent,M,Chinese,,in apartment,Affirmation
+Sure,Jonathan,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+Sure,Charis,F,Chinese,good friend,Joyce,F,Chinese,,in class,Affirmation
+Uh-huh,Charis,F,Chinese,good friend,Joyce,F,Chinese,,in class,Affirmation
+Okay,Vincent,M,Chinese,good friend,Jonathan,M,Chinese,,in apartment,Affirmation
+Okay,Jonathan,M,Chinese,good friend,Vincent,M,Chinese,repeat after Vincent,in apartment,Affirmation
+Aight,Vincent,M,Chinese,good friend,Jonathan,M,Chinese,,in apartment,Affirmation
+Yes,Vincent,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+Yes,Ethan,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+That's cool ,Vincent,M,Chinese,good friend,Jonathan,M,Chinese,,in apartment,Affirmation
+Mm-hmm,Vincent,M,Chinese,good friend,Jonathan,M,Chinese,,in apartment,Affirmation
+Mm-hmm,Me,M,Chinese,good friend,Jonathan,M,Chinese,,in apartment,Affirmation
+Mm-hmm,Student,F,Indian,teaching,male TA,M,Indian,,Data 8 lab,Affirmation
+Mm-hmm,Student,F,Indian,teaching,male TA,M,Indian,,Data 8 lab,Affirmation
+Mm-hmm,Jonathan,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+Sure,Me ,M,Chinese,fellow student,Ling150 student,F,Caucasian,,in class,Affirmation
+"eh, it's okay",Joseph Park,M,Korean,good friend,Me,M,Chinese,,in class,Affirmation
+Yes,Joseph Park,M,Korean,good friend,Me,M,Chinese,,in class,Affirmation
+"Nice, okay",TA,M,Indian,teaching,female student,F,Indian,,in class,Affirmation
+"Yeah, okay",TA,M,Indian,teaching,female student,F,Indian,,in class,Affirmation
+"Oh, okay",Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in class,Affirmation
+Guess so,Jonathan,M,Chinese,good friend,Me,M,Chinese,Will this event be next Sunday?,in apartment,Affirmation
+Yeah,TA,M,Indian,fellow student,TA,M,Chinese,,in class,Affirmation
+Yeah,student,M,Chinese,teaching,TA,M,Indian,,in class,Affirmation
+Yeah,student,F,Indian,teaching,TA,M,Chinese,,in class,Affirmation
+Yeah,student,F,Indian,teaching,TA,M,Chinese,,in class,Affirmation
+mm-hmm,Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in class,Affirmation
+Yeah,TA,M,Indian,teaching,student ,M,Chinese,,in class,Affirmation
+"yeah, yeah, yeah",TA,M,Indian,teaching,student ,M,Chinese,,in class,Affirmation
+nice,TA,M,Indian,teaching,student ,M,Chinese,,in class,Affirmation
+nice,TA,M,Indian,teaching,student ,M,Chinese,,in class,Affirmation
+Yeah,TA,M,Indian,teaching,TA,M,Chinese,,in class,Affirmation
+"Yeah, man",TA,M,Indian,teaching,student ,M,Chinese,Can I get help?,in class,Affirmation
+mm-hmm,Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in class,Affirmation
+Of course,TA,M,Indian,teaching,student ,M,Chinese,,in class,Affirmation
+yeah,student,M,n/a,fellow student,student ,F,n/a,,in class,Affirmation
+Yeah,TA,M,Indian,teaching,student ,M,Chinese,,in class,Affirmation
+"Yeah, I know",TA,M,Indian,teaching,student ,M,Chinese,,in class,Affirmation
+hopefully,TA,M,Indian,teaching,student ,M,Chinese,,in class,Affirmation
+alright,student,M ,Chinese,teaching ,TA,M,Indian,,in class,Affirmation
+alright,student,M ,Chinese,teaching ,TA,M,Indian,,in class,Affirmation
+yes,student,M,Chinese,teaching ,TA,M,Indian,,in class,Affirmation
+yeah,student,F,Chinese,teaching ,TA,M,Indian,,in class,Affirmation
+yeah,student,M,Chinese,teaching ,TA,M,Indian,,in class,Affirmation
+yeah,student,F,Chinese,fellow student,student ,M,Chinese,,in class,Affirmation
+okay,TA,M,Indian,teaching,student ,F,Chinese,,in class,Affirmation
+yeah,TA,M,Indian,teaching,student ,F,Chinese,,in class,Affirmation
+mm-hmm,student,F,Chinese,teaching,TA,M,Indian,,in class,Affirmation
+yeah,Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in class,Affirmation
+oh yeah,student,M,n/a,fellow student,student,F,Chinese,,in class,Affirmation
+"yeah, yeah, yeah",student,M,n/a,fellow student,student,F,Chinese,,in class,Affirmation
+exactly,student,M,n/a,fellow student,student,F,Chinese,,in class,Affirmation
+"yeah, exactly",student,M,n/a,fellow student,student,F,Chinese,,in class,Affirmation
+"oh, yeah?",student,F,Chinese,fellow student,student,M,Chinese,,in class,Affirmation
+"okay, great",student,F,Chinese,fellow student,student,M,Chinese,,in class,Affirmation
+yeah,Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in class,Affirmation
+sounds good,student,F,Chinese,fellow student,student,M,Chinese,sounds good?,in class,Affirmation
+"but yeah, sure",student,F,Chinese,fellow student,student,M,Chinese,,in class,Affirmation
+yeah,Sarah (TA),F,Chinese,teaching,Me,M,Chinese,,in class,Affirmation
+yes,Sarah (TA),F,Chinese,teaching,Me,M,Chinese,,in class,Affirmation
+yeah,Inez,F,Korean,friend,Me,M,Chinese,,in apartment,Affirmation
+"yeah, okay",Inez,F,Korean,friend,Me,M,Chinese,,in apartment,Affirmation
+think so,Ethan,M,Chinese,good friend,Me,M,Chinese,is he coming?,in apartment,Affirmation
+yeah ,Jonathan,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+yeah ,Jonathan,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+yeah ,Jonathan,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+mm-hmm,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+okay,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+yeah,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+yeah,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+right,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+right,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+"heck, yeah",Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+yeah,Jenny Kim,F,Korean,friend,Me,M,Chinese,,in apartment,Affirmation
+yeah,Jenny Kim,F,Korean,friend,Me,M,Chinese,,in apartment,Affirmation
+no,Jenny Kim,F,Korean,friend,Me,M,Chinese,,in apartment,Declination
+yeah ,Vincent,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+yeah ,Vincent,M,Chinese,good friend,Me,M,Chinese,,in apartment,Affirmation
+yeah,Hispanic woman,F,Hispanic,strangers ,black woman,F,Black,sitting in street chairs,in street,Affirmation
+"right, right",Hispanic woman,F,Hispanic,strangers ,black woman,F,Black,,in street,Affirmation
+Yeah,college student,F,Caucasian,friend,college student,F,Caucasian,,in street,Affirmation
+Yeah,wife,F,Caucasian,acquaintance,college student,F,Asian,wife gives confirming answer as husband talks to female student,in street,Affirmation
+Yep,wife,F,Caucasian,acquaintance,college student,F,Asian,This student is touring a couple on campus,in street,Affirmation
+oh yeah,woman,F,,friend,man,M,,,in street,Affirmation
+No,college student,F,Caucasian,friend,college student,M,Caucasian,,outside MLK,Declination
+alright,college student,M,Caucasian,friend,college student,F,Caucasian,,outside MLK,Affirmation
+Yeah,Amazon help desk,M,Caucasian,customer,Me,M,Chinese,,in MLK,Affirmation
+Sure,Amazon help desk,M,Caucasian,customer,Me,M,Chinese,,in MLK,Affirmation
+Yeah,MLK help desk,M,Caucasian,customer,Me,M,Chinese,Do you know where the bathroom is?,in MLK,Affirmation
+"No, sorry",MLK help desk,M,Caucasian,customer,Me,M,Chinese,Do you have any tissues?,in MLK,Declination
+Yeah,woman,F,Caucasian,friend,woman,F,Caucasian,,in MLK,Affirmation
+Yeah,woman,F,Caucasian,friend,woman,F,Caucasian,,in MLK,Affirmation
+Mm,woman,F,Caucasian,friend,woman,F,Caucasian,,in MLK,Affirmation
+No,woman,F,Caucasian,friend,woman,F,Caucasian,,in MLK,Declination
+right,woman,F,Caucasian,friend,woman,F,Caucasian,,in MLK,Affirmation
+yes,college student,F,n/a,friend,college student,M,n/a,,outside GBC,Affirmation
+yeah,college student,M,n/a,friend,college student,F,n/a,,outside GBC,Affirmation
+okay,college student,F,n/a,friend,college student,F,n/a,,outside GBC,Affirmation
+Yeah,college student,M,Chinese,friend,college student,F,Chinese,,restaurant,Affirmation
+yeah,college student,F,Chinese,friend,college student,M,Chinese,,restaurant,Affirmation
+oh yeah,customer,M,Black,customer,restaurant cashier,F,Vietnamese,,restaurant,Affirmation
+okay,restaurant cashier,F,Vietnamese,customer,Me,M,Chinese,,restaurant,Affirmation
+oh yeah,customer,M,Black,customer,restaurant cashier,F,Vietnamese,"She always asks ""do you want…""",restaurant,Affirmation
+Yeah,college student,F,Caucasian,friend,college student,F,Caucasian,"white F friends, said yeah 4x in 1 min",street,Affirmation
+Yeah,college student,F,Caucasian,friend,college student,F,Caucasian,,street,Affirmation
+Yeah,college student,F,Caucasian,friend,college student,F,Caucasian,,street,Affirmation
+Yeah,college student,F,Caucasian,friend,college student,F,Caucasian,,street,Affirmation
+Yes,college student,M,Chinese,friend,college student,F,Chinese,"more definite answer, conclusive tone",outside GBC,Affirmation
+Yeah,college student,F,Caucasian,parent,father,M,Caucasian,,outside GBC,Affirmation
+"well, yeah",father,M,Caucasian,parent,college student,F,Caucasian,,outside GBC,Affirmation
+yeah,father,M,Caucasian,parent,college student,F,Caucasian,,outside GBC,Affirmation
+yeah,college student,M,,,,,,"on the phone, walking by",outside GBC,Affirmation
+"ew, no",college student,F,Caucasian,friend,group of Caucasian friends,,,,outside GBC,Declination
+yeah,photographer student,F,Asian,friend,college student,F,Asian,,outside GBC,Affirmation
+yeah,Amanda,F,Chinese,friend,Me,M,Chinese,,phone call,Affirmation
+yeah,Amanda,F,Chinese,friend,Me,M,Chinese,,phone call,Affirmation
+yeah,Amanda,F,Chinese,friend,Me,M,Chinese,,phone call,Affirmation
+yeah,Amanda,F,Chinese,friend,Me,M,Chinese,,phone call,Affirmation
+No,Amanda,F,Chinese,friend,Me,M,Chinese,,phone call,Declination
+yeah,Amanda,F,Chinese,friend,Me,M,Chinese,,phone call,Affirmation
+yeah,college student,F,Caucasian,friend,college student,F,Caucasian,,in MLK,Affirmation
+yeah,college student,M,Caucasian,friend,college student,F,Indian,,in MLK,Affirmation
+yeah,college student,M,Caucasian,friend,college student,F,Indian,,in MLK,Affirmation
+"yeah, there we go",college student,F,Asian,friend,college student,M,Asian,,in MLK,Affirmation
+okay,college student,F,Indian,friend,college student,M,Caucasian,,in MLK,Affirmation
+yeah,college student,F,Asian,friend,college student,M,Asian,,in MLK,Affirmation
+okay,college student,F,Asian,friend,college student,M,Asian,,in MLK,Affirmation
+but yeah,college student,M,Asian,friend,college student,M,Asian,,in MLK,Affirmation
+yes,college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+mm-hmm,college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+"yeah, yeah, yeah",college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+yeah,college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+yep,college student,F,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+yeah,college student,M,n/a,"on the phone, walking by",,,n/a,"on the phone, walking by",in MLK,Affirmation
+yeah,college student,F,n/a,friend,college student,M,n/a,,in MLK,Affirmation
+yeah,college student,M,n/a,friend,college student,F,n/a,,in MLK,Affirmation
+yeah,college student,F,Indian,friend,college student,M,Caucasian,,in MLK,Affirmation
+yeah,college student,F,Indian,friend,college student,M,Caucasian,,in MLK,Affirmation
+"okay, yeah",college student,F,Indian,friend,college student,M,Caucasian,talking about correctness of an answer,in MLK,Affirmation
+yeah,college student,F,Indian,friend,college student,M,Caucasian,,in MLK,Affirmation
+yeah,college student,M,Caucasian,friend,college student,F,Indian,,in MLK,Affirmation
+yeah,college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+yeah,college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+yeah,college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+yeah,college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+"ohhh, okay",college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+Mm,college student,M,Hispanic,friend,college student,M,Hispanic,(yes response),in MLK,Affirmation
+"Oh, no",college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Declination
+"Oh, yeah",college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+"Yeahhh, yeah",college student,M,Hispanic,friend,college student,M,Hispanic,,in MLK,Affirmation
+yeah,college student,F,Indian,friend,college student,M,Caucasian,,in MLK,Affirmation
+"Oh, okay",college student,F,Chinese,friend,college student,M,Chinese,,in MLK,Affirmation
+"oh yes, yes",college student,F,Chinese,friend,college student,M,Chinese,,in MLK,Affirmation
+Uh-huh,college student,F,Chinese,friend,college student,M,Chinese,,in MLK,Affirmation
+"No, no, no",college student,M,Chinese,friend,college student,F,Chinese,,in MLK,Declination
+Yeah,college student,F,Indian,friend,college student,M,Indian,,in MLK,Affirmation
+No,college student,M,Indian,friend,college student,F,Indian,,in MLK,Declination
+"Oh, yeah",college student,M,Hispanic,friend,college student,M,Hispanic,asserting familiarity with the topic,in MLK,Affirmation
+yes,college student,F,Chinese,friend,college student,M,Chinese,,in MLK,Affirmation
+yeah,college student,F,Chinese,friend,college student,M,Chinese,,in MLK,Affirmation
+"uh, yeah",college student,F,Chinese,friend,college student,M,Chinese,,in MLK,Affirmation
+yes,college student,F,Chinese,friend,college student,M,Chinese,,in MLK,Affirmation
+"yeah, so",college student,M,Asian,friend,college student,F,Asian,,in MLK,Affirmation
+yeah,college student,F,Chinese,friend,college student,M,Chinese,,in MLK,Affirmation
+yeah,Justin Hoong,M,Chinese,good friend,Me,M,Chinese,late night conversation,in apartment,Affirmation
+yeah,Jenny Kim,F,Korean,friend,Me,M,Chinese,late night conversation,in apartment,Affirmation
+yeah,Jenny Kim,F,Korean,friend,Me,M,Chinese,late night conversation,in apartment,Affirmation
+yeah,Jenny Kim,F,Korean,friend,Me,M,Chinese,late night conversation,in apartment,Affirmation
+yeah,Ethan,M,Chinese,friend,Me,M,Chinese,,in apartment,Affirmation
+yeah,Ethan,M,Chinese,friend,Me,M,Chinese,,in apartment,Affirmation
+yeah,Ethan,M,Chinese,friend,Jonathan,M,Chinese,,in apartment,Affirmation
+Yeah,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+Yeah,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+Yeah,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+Yeah,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+No,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Declination
+Mm-hmm,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+"yeah,yeah,yeah",Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+Okay,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+Okay,Gwen,F,Asian Mixed,good friend,Me,M,Chinese,,phone call,Affirmation
+No,Ling150 student,F,n/a,fellow student,Me,M,Chinese,,in class,Declination
+No,Joseph Park,M,Korean,good friend,Me,M,Chinese,,in class,Declination
+Nope,Ethan,M,Chinese,good friend,Me,M,Chinese,,in apartment,Declination
+Nah,Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in class,Declination
+"No, it’s okay ",Vincent,M,Chinese,good friend,Jonathan,M,Chinese,request,in apartment,Declination
+"Naw, it's fine",Me,M,Chinese,good friend,Vincent,M,Chinese,,in apartment,Declination
+Not really..,Tim Newman,M ,Caucasian,good friend,Me,M,Chinese,,in class,Declination
+No,Confused student,F,Indian,teaching,TA,M,Caucasian,,in class,Declination
+No,Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in class,Declination
+No,Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in class,Declination
+"mmm, not sure ",Charis,F,Asian,fellow student,Me,M,Chinese,,in class,Declination
+Nah,student,F,n/a,teaching,TA,M,n/a,,in class,Declination
+No,student,M,n/a,fellow student,student,M,n/a,,in class,Declination
+no,Tim Newman,M,Caucasian,good friend,Me,M,Chinese,,in class,Declination
+no,Sarah,F,Asian,teaching,Me,M,Chinese,,in class,Declination
+No,Ethan,M,Asian,good friend,Me,M,Asian,,in class,Declination
+no,Jenny Kim,F,Asian,friend,Me,M,Asian,,in apartment,Declination
+no,Gwen,F,Asian,good friend,Me,M,Asian,,phone call,Declination
+yeah,student,F,Asian,friend,student,M,Asian,,in class,Affirmation
+yeah,student,F,Hispanic,friend,student,F,Hispanic,,in class,Affirmation
+yeah,man,M,Caucasian,n/a,woman,F,Chinese,,RSF,Affirmation
+yeah,student,M,Indian,friend,student,M,Black,,RSF,Affirmation
+mm-hmm,student,M,Indian,friend,student,M,Black,,RSF,Affirmation
